@@ -1,0 +1,22 @@
+{
+  "name": "ticketstoken-v2",
+  "version": "1.0.0",
+  "description": "An ERC721 to emit and sell event tickets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ochoacabriles/ticketsToken-v2.git"
+  },
+  "author": "Rafael Ochoa <ochoacabriles@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ochoacabriles/ticketsToken-v2/issues"
+  },
+  "homepage": "https://github.com/ochoacabriles/ticketsToken-v2#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2"
+  }
+}
