@@ -18,3 +18,9 @@ Proposals of improvements (based on OpenZeppelin Defender):
 - Authorize a Relayer to execute the Burn action, to allow this process to be run by a client connected to the backend.
 - Use a Sentinel to detect suspicious actions (like a single address sending many requests to buy tickets).
 - Use an Autotask to send ETH to contract owner in response to predefined events (instead of sending ETH to the owner action on each sale).
+
+Developed as a project for Blockdemy - OpenZeppelin Bootcamp in August 2022.
+Team 14
+
+- Rafael Ochoa <ochoacabriles>
+- Aldo Matus <aldoMatus7>
